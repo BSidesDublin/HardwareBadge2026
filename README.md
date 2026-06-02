@@ -1,0 +1,1 @@
+# HardwareBadge2026
