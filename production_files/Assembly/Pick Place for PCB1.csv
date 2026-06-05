@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+G:\harp_final\Harp Final\Project Outputs for Harp\Pick Place\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/04/26
+Time:       20:19
+Revision:   d0a2a2184986bf8ffe0e83a2863bd96703cbecfe
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"U2","AP2112K-3.3TRG1","BottomLayer","FP-SOT25-IPC_A","-13,7750","12,6750","90","IC REG LINEAR 3.3V 600MA SOT25","-13,7750","12,6750","-12,8250","11,4745"
+"C4","Capacitor 25 pF +/-10% 50 V 0603","BottomLayer","CAPC1608X90X40NL10T20","-5,4000","29,2750","0","Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)","-5,4000","29,2750","-6,0250","29,2750"
+"R21","Resistor 20R +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","-6,7000","11,2500","90","Chip Resistor, 20R KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","-6,7000","11,2500","-6,7000","10,5000"
+"R20","Resistor 20R +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","-0,1250","11,2500","90","Chip Resistor, 20R KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","-0,1250","11,2500","-0,1250","10,5000"
+"R19","Resistor 5k1 +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","5,3000","7,6250","270","Chip Resistor, 5.1 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","5,3000","7,6250","5,3000","8,3750"
+"R18","Resistor 5k1 +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","-7,3000","7,6250","270","Chip Resistor, 5.1 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","-7,3000","7,6250","-7,3000","8,3750"
+"J2","TYPE-C-31-M-12","BottomLayer","HRO_TYPE-C-31-M-12","-0,8950","5,0750","180","USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS","-0,8950","2,7000","2,3050","7,4500"
+"CR1","USBLC6-2SC6","BottomLayer","SOT23-6L_STM","-3,4000","11,2500","90","ESD Protection for USB 2.0 High Speed","-3,4000","11,2500","-2,4500","9,8875"
+"BT1","CR2032-BS-6-1","BottomLayer","BAT_CR2032-BS-6-1","-15,3590","54,1200","90","Battery base CR2032 SMD Battery Connectors ROHS","-15,3590","54,1200","-15,3590","68,6200"
+"C7","TAJB107K006RNJ","BottomLayer","FP-TAJB-MFG","-16,5000","33,6000","0","100uF 6.3V  ±10% 1.7O 1210  SMD Tantalum Capacitor","-16,5000","33,6000","-17,8000","33,6000"
+"C6","Capacitor 1 uF +/- 10% 16 V 0603","BottomLayer","CAPC1608X94X35NL15T15","8,3250","2,7250","180","Chip Capacitor, 1 uF, +/- 10%, 16 V, 0603 (1608 Metric)","8,3250","2,7250","9,0750","2,7250"
+"C3","Capacitor .1 uF +/- 10% 16 V 0603","BottomLayer","CAPC1608X94X35NL15T15","6,8750","18,1750","270","Chip Capacitor, .1 uF, +/- 10%, 16 V, 0603 (1608 Metric)","6,8750","18,1750","6,8750","18,9250"
+"C2","Capacitor .1 uF +/- 10% 16 V 0603","BottomLayer","CAPC1608X94X35NL15T15","-8,2500","14,3750","225","Chip Capacitor, .1 uF, +/- 10%, 16 V, 0603 (1608 Metric)","-8,2500","14,3750","-7,7197","14,9053"
+"C1","Capacitor .1 uF +/- 10% 16 V 0603","BottomLayer","CAPC1608X94X35NL15T15","-10,9000","24,1750","90","Chip Capacitor, .1 uF, +/- 10%, 16 V, 0603 (1608 Metric)","-10,9000","24,1750","-10,9000","23,4250"
+"J1","Programming header","BottomLayer","Programming_Header","-13,2022","5,5624","165","","-7,0605","5,7575","-8,2567","4,2373"
+"R17","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","11,1354","17,7820","270","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","11,1354","17,7820","11,1354","18,5320"
+"R16","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","20,0250","7,3500","180","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","20,0250","7,3500","20,7750","7,3500"
+"U1","STM32L053R8T6D","BottomLayer","STM-LQFP64_N","-1,7250","21,2750","270","Ultra-low-power 32-Bit MCU ARM-based Cortex-M0+, 64 KB Flash, 8 KB RAM, 51 I/Os, 64-Pin LQFP, -40 to 85 degC, Tray","-1,7250","21,2750","-5,4750","26,9250"
+"SW1","power switch","BottomLayer","Switch","-16,4369","25,7298","197,8","","-16,2000","25,8750","-13,9649","24,2296"
+"R15","Resistor 200 R +/-1% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","-7,7450","12,7500","90","Chip Resistor, 200 Ohm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","-7,7450","12,7500","-7,7450","12,0000"
+"R14","Resistor 200 R +/-1% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","-5,1633","12,7500","90","Chip Resistor, 200 Ohm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","-5,1633","12,7500","-5,1633","12,0000"
+"R13","Resistor 200 R +/-1% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","-2,5817","12,7500","90","Chip Resistor, 200 Ohm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","-2,5817","12,7500","-2,5817","12,0000"
+"R12","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","8,6393","21,9953","0","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","8,6393","21,9953","7,8893","21,9953"
+"R11","Resistor 200 R +/-1% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","0,0000","12,7500","90","Chip Resistor, 200 Ohm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","0,0000","12,7500","0,0000","12,0000"
+"R10","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","8,6393","24,9953","0","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","8,6393","24,9953","7,8893","24,9953"
+"R9","Resistor 200 R +/-1% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","2,5817","12,7500","90","Chip Resistor, 200 Ohm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","2,5817","12,7500","2,5817","12,0000"
+"R8","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","8,6393","27,9953","0","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","8,6393","27,9953","7,8893","27,9953"
+"R7","Resistor 200 R +/-1% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","5,1633","12,7500","90","Chip Resistor, 200 Ohm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","5,1633","12,7500","5,1633","12,0000"
+"R6","Resistor 200 R +/-1% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","7,7450","12,7500","90","Chip Resistor, 200 Ohm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","7,7450","12,7500","7,7450","12,0000"
+"R5","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","-10,0548","27,1811","180","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","-10,0548","27,1811","-9,3048","27,1811"
+"R4","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","-17,4750","10,0500","180","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","-17,4750","10,0500","-16,7250","10,0500"
+"R3","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","2,7750","31,0500","90","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","2,7750","31,0500","2,7750","30,3000"
+"R2","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","0,3250","31,0750","90","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","0,3250","31,0750","0,3250","30,3250"
+"R1","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","-2,3281","31,0974","90","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","-2,3281","31,0974","-2,3281","30,3474"
+"Q1","SS8050-G","BottomLayer","FP-SS8050-G-MFG","19,7000","10,8250","0","NPN TRANSISTOR 1.5A 40V SOT-23 R","19,7000","10,8250","18,6900","9,8750"
+"D8","1N4148WT-7","BottomLayer","FP-SOD523-MFG","3,4500","10,3250","180","DIODE GEN PURP 80V 125MA SOD523","3,4500","10,3250","4,1500","10,3250"
+"D7","SM0603UYC","TopLayer","LED_SM0603UYC","-7,7455","15,7000","270","LED SMD 0603 Ultra Yellow 593nm 70mcd Water Clear Lens 130 Deg Viewing Angle","-7,7455","15,7000","-7,7455","14,9500"
+"D6","SM0603UYC","TopLayer","LED_SM0603UYC","-5,1637","15,7000","270","LED SMD 0603 Ultra Yellow 593nm 70mcd Water Clear Lens 130 Deg Viewing Angle","-5,1637","15,7000","-5,1637","14,9500"
+"D5","SM0603UYC","TopLayer","LED_SM0603UYC","-2,5820","15,7000","270","LED SMD 0603 Ultra Yellow 593nm 70mcd Water Clear Lens 130 Deg Viewing Angle","-2,5820","15,7000","-2,5820","14,9500"
+"D4","SM0603UYC","TopLayer","LED_SM0603UYC","-0,0002","15,7000","270","LED SMD 0603 Ultra Yellow 593nm 70mcd Water Clear Lens 130 Deg Viewing Angle","-0,0002","15,7000","-0,0002","14,9500"
+"D3","SM0603UYC","TopLayer","LED_SM0603UYC","2,5815","15,7000","270","LED SMD 0603 Ultra Yellow 593nm 70mcd Water Clear Lens 130 Deg Viewing Angle","2,5815","15,7000","2,5815","14,9500"
+"D2","SM0603UYC","TopLayer","LED_SM0603UYC","5,1632","15,7000","270","LED SMD 0603 Ultra Yellow 593nm 70mcd Water Clear Lens 130 Deg Viewing Angle","5,1632","15,7000","5,1632","14,9500"
+"D1","SM0603UYC","TopLayer","LED_SM0603UYC","7,7450","15,7000","270","LED SMD 0603 Ultra Yellow 593nm 70mcd Water Clear Lens 130 Deg Viewing Angle","7,7450","15,7000","7,7450","14,9500"
+"C5","Capacitor 25 pF +/-10% 50 V 0603","BottomLayer","CAPC1608X90X40NL10T20","8,6393","30,9953","180","Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)","8,6393","30,9953","9,2643","30,9953"
+"BZ1","MLT_8530","BottomLayer","buzzer_8530_-ve_middle","11,6499","9,7653","0","","8,0999","6,2153","8,0999","6,2153"
